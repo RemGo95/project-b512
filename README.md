@@ -6,6 +6,16 @@ Universal machine learning environment for robots with graphic visualization
 
 ![screen1](https://user-images.githubusercontent.com/37455393/157961596-94c6f65b-7b65-4a8c-a3f2-dd2ed7f5a9bf.png)
 
+Demo version of app for android - .apk file
+Just send file to your phone and install.
+
+Permissions for application:
+-Communication(TCP Socket connection for learning on PC and send data to andorid phone)
+-Storage
+
+
+
+
 
 Software and packages you will need to run neural network and simulation:
 
