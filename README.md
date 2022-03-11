@@ -1,9 +1,9 @@
 # project-brain
 
-Universal environment for learning neural networks for robots with graphic visualization
+Universal machine learning environment for robots with graphic visualization
 
 
-Software and packages you will need to run Neural Network and simulation:
+Software and packages you will need to run neural network and simulation:
 
 For host with Unity Engine:
 - Python (==3.7.8),
