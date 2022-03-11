@@ -2,6 +2,8 @@
 
 Universal machine learning environment for robots with graphic visualization
 
+![screen2](https://user-images.githubusercontent.com/37455393/157963032-687795ee-a439-467d-87f9-943da3b088e2.png)
+
 ![screen1](https://user-images.githubusercontent.com/37455393/157961596-94c6f65b-7b65-4a8c-a3f2-dd2ed7f5a9bf.png)
 
 
