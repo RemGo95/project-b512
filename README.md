@@ -2,7 +2,8 @@
 
 Universal machine learning environment for robots with graphic visualization
 
-![screen1](https://user-images.githubusercontent.com/37455393/157961596-94c6f65b-7b65-4a8c-a3f2-dd2ed7f5a9bf.png)
+![screen1](https://user-images.githubusercontent.com/37455393/158229883-b5376833-8485-4d61-85e0-78dea7974998.png)
+
 
 Demo version of app for android - .apk file
 Just send file to your phone and install.
