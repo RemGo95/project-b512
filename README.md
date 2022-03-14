@@ -21,10 +21,7 @@ Software and packages you will need to run neural network and simulation:
 
 For host with Unity Engine:
 - Python (==3.7.8),
-- numpy (==1.19.5),
 - Tensorflow (==2.6.0),
-- Tensorboard (==2.7.0),
-- Pillow (==8.3.2),
 - Visual Studio 2019,
 - Keras (==2.6.0),
 - Opencv-Python (minimum version ==4.1.0.25),
