@@ -24,29 +24,7 @@ public class MobilerobotAI : Agent
 
     #region
     //5DOF ARM
-    [SerializeField] GameObject Axis0;
-    [SerializeField] GameObject Axis1;
-    [SerializeField] GameObject Axis2;
-    [SerializeField] GameObject Axis3;
-    [SerializeField] GameObject Axis4;
-    [SerializeField] GameObject Axis5;
-    [SerializeField] GameObject Axis6;
 
-    public float targetAngle0 = 0;
-    public float targetAngle1 = 0;
-    public float targetAngle2 = 0;
-    public float targetAngle3 = 0;
-    public float targetAngle4 = 0;
-    public float targetAngle5 = 0;
-    public float targetAngle6 = 0;
-
-    public float acttargetAngle0 = 0;
-    public float acttargetAngle1 = 0;
-    public float acttargetAngle2 = 0;
-    public float acttargetAngle3 = 0;
-    public float acttargetAngle4 = 0;
-    public float acttargetAngle5 = 0;
-    public float acttargetAngle6 = 0;
 
     public float rotationDegreesPerSecond = 45f;
     public float rotationDegreesAmount = 90f;
