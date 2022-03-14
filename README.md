@@ -1,4 +1,4 @@
-# project-brain
+# project-b512
 
 Universal machine learning environment for robots with graphic visualization. Add your robot in CAD files with special point for axis of every rotation. Connect via pipe to machine learning based on Python.
 
