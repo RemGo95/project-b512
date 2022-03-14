@@ -1,6 +1,6 @@
 # project-brain
 
-Universal machine learning environment for robots with graphic visualization
+Universal machine learning environment for robots with graphic visualization. Add your robot in CAD files with special point for axis of every rotation. Connect via pipe to machine learning based on Python.
 
 ![screen1](https://user-images.githubusercontent.com/37455393/158229883-b5376833-8485-4d61-85e0-78dea7974998.png)
 
